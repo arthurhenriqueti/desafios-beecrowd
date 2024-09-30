@@ -1,0 +1,14 @@
+D:\dev\desafios-beecrowd\Codigos\I1006\bin\Debug\net8.0\I1006.exe
+D:\dev\desafios-beecrowd\Codigos\I1006\bin\Debug\net8.0\I1006.deps.json
+D:\dev\desafios-beecrowd\Codigos\I1006\bin\Debug\net8.0\I1006.runtimeconfig.json
+D:\dev\desafios-beecrowd\Codigos\I1006\bin\Debug\net8.0\I1006.dll
+D:\dev\desafios-beecrowd\Codigos\I1006\bin\Debug\net8.0\I1006.pdb
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.AssemblyInfoInputs.cache
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.AssemblyInfo.cs
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.csproj.CoreCompileInputs.cache
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.dll
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\refint\I1006.dll
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.pdb
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\I1006.genruntimeconfig.cache
+D:\dev\desafios-beecrowd\Codigos\I1006\obj\Debug\net8.0\ref\I1006.dll
