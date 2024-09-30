@@ -1,0 +1,15 @@
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\bin\Debug\net8.0\TreinandoPOO.exe
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\bin\Debug\net8.0\TreinandoPOO.deps.json
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\bin\Debug\net8.0\TreinandoPOO.runtimeconfig.json
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\bin\Debug\net8.0\TreinandoPOO.dll
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\bin\Debug\net8.0\TreinandoPOO.pdb
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.AssemblyInfoInputs.cache
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.AssemblyInfo.cs
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.csproj.CoreCompileInputs.cache
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.sourcelink.json
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.dll
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\refint\TreinandoPOO.dll
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.pdb
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\TreinandoPOO.genruntimeconfig.cache
+D:\dev\desafios-beecrowd\TreinandoPOO\TreinandoPOO\obj\Debug\net8.0\ref\TreinandoPOO.dll
