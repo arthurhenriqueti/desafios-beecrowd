@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1000\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5E1187C-0A6E-4B4D-99B9-233AD84B61E8}|..\\I1015\\I1015.csproj|d:\\dev\\desafios-beecrowd\\iniciante\\i1015\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85FC48D2-A745-4F8A-B72F-2E665F3FE22E}|..\\I1020\\I1020.csproj|d:\\dev\\desafios-beecrowd\\iniciante\\i1020\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52489FB1-7177-4BFA-8B48-7D9B929AE638}|..\\I1019\\I1019.csproj|d:\\dev\\desafios-beecrowd\\iniciante\\i1019\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61CE65F5-B9EF-4DB4-A549-880191E2DD6F}|..\\I1018\\I1018.csproj|d:\\dev\\desafios-beecrowd\\iniciante\\i1018\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB19EED7-FE96-42C8-ADFC-95D0839E61CD}|..\\I1017\\I1017.csproj|d:\\dev\\desafios-beecrowd\\iniciante\\i1017\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD60EF2A-5A43-4E66-9D0E-8B8850E610CF}|..\\I1016\\I1016.csproj|d:\\dev\\desafios-beecrowd\\iniciante\\i1016\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,13 +31,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1015\\Program.cs",
-              "RelativeDocumentMoniker": "..\\I1015\\Program.cs",
-              "ToolTip": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1015\\Program.cs",
-              "RelativeToolTip": "..\\I1015\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1020\\Program.cs",
+              "RelativeDocumentMoniker": "..\\I1020\\Program.cs",
+              "ToolTip": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1020\\Program.cs",
+              "RelativeToolTip": "..\\I1020\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T21:24:00.618Z",
+              "WhenOpened": "2024-10-22T20:02:12.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1019\\Program.cs",
+              "RelativeDocumentMoniker": "..\\I1019\\Program.cs",
+              "ToolTip": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1019\\Program.cs",
+              "RelativeToolTip": "..\\I1019\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:54:39.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1018\\Program.cs",
+              "RelativeDocumentMoniker": "..\\I1018\\Program.cs",
+              "ToolTip": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1018\\Program.cs",
+              "RelativeToolTip": "..\\I1018\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:40:22.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1017\\Program.cs",
+              "RelativeDocumentMoniker": "..\\I1017\\Program.cs",
+              "ToolTip": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1017\\Program.cs",
+              "RelativeToolTip": "..\\I1017\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:30:34.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1016\\Program.cs",
+              "RelativeDocumentMoniker": "..\\I1016\\Program.cs",
+              "ToolTip": "D:\\dev\\desafios-beecrowd\\Iniciante\\I1016\\Program.cs",
+              "RelativeToolTip": "..\\I1016\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:26:44.218Z",
               "EditorCaption": ""
             }
           ]

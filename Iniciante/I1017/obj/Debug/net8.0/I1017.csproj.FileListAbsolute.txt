@@ -1,0 +1,15 @@
+D:\dev\desafios-beecrowd\Iniciante\I1017\bin\Debug\net8.0\I1017.exe
+D:\dev\desafios-beecrowd\Iniciante\I1017\bin\Debug\net8.0\I1017.deps.json
+D:\dev\desafios-beecrowd\Iniciante\I1017\bin\Debug\net8.0\I1017.runtimeconfig.json
+D:\dev\desafios-beecrowd\Iniciante\I1017\bin\Debug\net8.0\I1017.dll
+D:\dev\desafios-beecrowd\Iniciante\I1017\bin\Debug\net8.0\I1017.pdb
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.AssemblyInfoInputs.cache
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.AssemblyInfo.cs
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.csproj.CoreCompileInputs.cache
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.sourcelink.json
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.dll
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\refint\I1017.dll
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.pdb
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\I1017.genruntimeconfig.cache
+D:\dev\desafios-beecrowd\Iniciante\I1017\obj\Debug\net8.0\ref\I1017.dll
